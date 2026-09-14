@@ -1,9 +1,0 @@
-{
-  "name": "signalynx",
-  "version": "2.0.0",
-  "private": true,
-  "description": "Analisa teknikal otomatis untuk crypto, forex, emas, dan memecoin Solana — TwelveData (rotasi 8 API key) + DexScreener/GeckoTerminal/DexPaprika + Groq AI. Deploy di Vercel.",
-  "dependencies": {
-    "@vercel/kv": "^2.0.0"
-  }
-}
